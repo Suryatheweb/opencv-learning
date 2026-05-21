@@ -1,5 +1,5 @@
 import cv2
-
+#to open import image from local pc 
 img = cv2.imread("test.jpeg") 
 
 if img is None:
